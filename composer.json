@@ -1,5 +1,5 @@
 {
-  "name": "pinktie/laravel-notifications-trello",
+  "name": "asseti6/laravel-notifications-trello",
   "description": "Laravel 5.x.x Notifications Channel for Trello",
   "keywords": ["laravel", "trello", "notifications"],
   "homepage": "https://github.com/PinkTie/laravel-notifications-trello",
